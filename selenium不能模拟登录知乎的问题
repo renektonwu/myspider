@@ -1,0 +1,7 @@
+问题描述：
+	
+	有部分同学反映，使用最新的chrome和chromedriver模拟登录知乎会出现grant_type的error的bug
+
+解决办法：
+	
+	将chrome降级到60版本， chromedriver下载2.33版本， 鉴于有些同学不能下载chromedriver，我将所有操作系统的driver都上传到这里

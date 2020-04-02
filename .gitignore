@@ -1,0 +1,5 @@
+*.pyc
+.idea
+*.whl
+numpy-1.16.2+mkl-cp35-cp35m-win_amd64.whl
+numpy-1.16.2+mkl-cp36-cp36m-win_amd64.whl
